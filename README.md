@@ -2,6 +2,11 @@
 
 Este es mi primer proyecto en GitHub.
 
+Puedes ver el resultado publicado aquí:  
+🔗 **[https://alejandrots24.github.io/pagina-bienvenida/](https://alejandrots24.github.io/pagina-bienvenida/)**
+
+---
+
 ## 👤 Autor
 **Alejandro Tarazona Sáez**
 
@@ -9,6 +14,7 @@ Este es mi primer proyecto en GitHub.
 - HTML
 - CSS
 - Markdown
+- Git / GitHub
 
 ## 📁 Estructura del proyecto
 pagina-bienvenida  
